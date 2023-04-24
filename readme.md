@@ -1,4 +1,4 @@
-# NodeJs(Express) starter 
+# NodeJs(Express) starter app
 This repo could be used as a kind of inherited api structure, and it will save a lot of time.
 
 ## Why I made this repo
